@@ -11,12 +11,11 @@ tus datos son:
 '''
 tus datos son:
 
- nombre: Andres Arias
- 
- '''
-
- #En python tenemos diferentes tipos de numeros
- #4 # entero
+nombre: Andres Arias
+  
+'''
+#En python tenemos diferentes tipos de numeros
+#4 # entero
 40.2#flotante
 4j # complejo
 
