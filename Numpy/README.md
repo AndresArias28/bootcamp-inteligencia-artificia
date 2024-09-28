@@ -1,6 +1,6 @@
 # Numpy
 ## Qué es Numpy?
-Es una herramienta que permite gestionar procesamiento y analis 
+Es una herramienta que permite gestionar procesamiento y análisis de datos numéricos. Numpy tiene diversidad de aplicaciones, desde la medicina hasta el aprendizaje automático.
 
 ## Importancia:
 
